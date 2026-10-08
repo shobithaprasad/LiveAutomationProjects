@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-10-07T13:33:04 GTS" name="Default suite" finished-at="2026-10-07T13:33:08 GTS" duration-ms="4147">
+  <suite started-at="2026-10-08T10:35:35 GTS" name="Default suite" finished-at="2026-10-08T10:35:42 GTS" duration-ms="7134">
     <groups>
     </groups>
-    <test started-at="2026-10-07T13:33:04 GTS" name="Default test" finished-at="2026-10-07T13:33:08 GTS" duration-ms="4147">
-      <class name="ui.register.TC_RF_008">
-        <test-method signature="verifyConfirmPassword()[pri:0, instance:ui.register.TC_RF_008@4c583ecf]" started-at="2026-10-07T13:33:04 GTS" name="verifyConfirmPassword" finished-at="2026-10-07T13:33:08 GTS" duration-ms="4113" status="PASS">
+    <test started-at="2026-10-08T10:35:35 GTS" name="Default test" finished-at="2026-10-08T10:35:42 GTS" duration-ms="7134">
+      <class name="ui.register.TC_RF_010">
+        <test-method signature="verifyRegisteringInvalidEmails()[pri:0, instance:ui.register.TC_RF_010@2b71e916]" started-at="2026-10-08T10:35:35 GTS" name="verifyRegisteringInvalidEmails" finished-at="2026-10-08T10:35:42 GTS" duration-ms="7085" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyConfirmPassword -->
-      </class> <!-- ui.register.TC_RF_008 -->
+        </test-method> <!-- verifyRegisteringInvalidEmails -->
+      </class> <!-- ui.register.TC_RF_010 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
